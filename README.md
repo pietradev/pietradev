@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 
 **<h2>> Skills</h2>**
 :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
-:hammer: Web development: HTML, CSS, JavaScript 
-:orange: C++ <br>
-:world_map: Oriented Object Programming <br>
+:hammer: **Web development:** HTML, CSS, JavaScript 
+:world_map: **Databases:** SQL Server, MySQL<br>
 :page_with_curl: UML diagram
 
 
 **<h2>> Life</h2>**
 - [RCBC](https://www.rcbc.edu/) Dean's Scholar, Computer Science '22
 - [RCBC](https://www.rcbc.edu/) Digital Forms Developer 
-- Research Project - Software Factory Analysis 2022
+- Research Project - Software Factory Analysis 2022 - Price Systems
 - [NJ All-State Academic Team 2022](https://www.njccc.org/)
 
 
