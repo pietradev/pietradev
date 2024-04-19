@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **<h2>> Skills</h2>**
 :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
-:hammer: **Web development:** HTML, CSS, JavaScript <br>
+:hammer: **Web development:** HTML, CSS, JavaScript, Bootstrap <br>
 :world_map: **Databases:** SQL Server, MySQL<br>
 :page_with_curl: **Automation and Scripting:** PowerShell, Windows Task Scheduler<br>
 
