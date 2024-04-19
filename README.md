@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 **<h1>⚡Pietra Oliveira</h1>**
-**I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in service of society.`**
+**I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in the service of society.**
 
 > **<h2>Skills</h2>**
 - :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
