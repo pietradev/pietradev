@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **pietradev/pietradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*<h1>⚡Pietra Oliveira</h1>
+**<h1>⚡Pietra Oliveira</h1>**
 **I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in service of society.`**
 
 > **<h2>Skills</h2>**
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [RCBC](https://www.rcbc.edu/) Electronic Document Management Coordinator - (2023 - 2024)
 - [RCBC](https://www.rcbc.edu/) Digital Forms Developer - (2022 - 2023)
 
-**<h2>> Life</h2>**
+> **<h2>> Life</h2>**
 - Research Project - Software Factory Analysis 2022 - Price Systems
 - [RCBC](https://www.rcbc.edu/) Dean's Scholar, Computer Science '22
 - [NJ All-State Academic Team 2022](https://www.njccc.org/)
