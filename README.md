@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
 :hammer: **Web development:** HTML, CSS, JavaScript <br>
 :world_map: **Databases:** SQL Server, MySQL<br>
-:page_with_curl: UML diagram
+:page_with_curl: **Automation and Scripting:** PowerShell, Windows Task Scheduler<br>
 
 
 **<h2>> Life</h2>**
