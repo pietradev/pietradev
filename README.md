@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 -->
 
 *<h1>⚡Pietra Oliveira</h1>
-**`Digital Craftswoman (Digital Forms Developer/Creator)`**
+**I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in service of society.`**
+
+**<h2>> Skills</h2>**
+:coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
+:hammer: Web development: HTML, CSS, JavaScript 
+:orange: C++ <br>
+:world_map: Oriented Object Programming <br>
+:page_with_curl: UML diagram
+
 
 **<h2>> Life</h2>**
 - [RCBC](https://www.rcbc.edu/) Dean's Scholar, Computer Science '22
 - [RCBC](https://www.rcbc.edu/) Digital Forms Developer 
 - Research Project - Software Factory Analysis 2022
 - [NJ All-State Academic Team 2022](https://www.njccc.org/)
-- [RCBC](https://www.rcbc.edu/) 2022 Peer Mentor
-- [RCBC](https://www.rcbc.edu/) 2022 International Club President , 2023 Designer
 
 
-**<h2>> Skills</h2>**
-:coffee: Java <br>
-:hammer: HTML5, CSS, JavaScript <br>
-:orange: C++ <br>
-:world_map: Oriented Object Programming <br>
-:page_with_curl: UML diagram
+
