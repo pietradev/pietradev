@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 *<h1>⚡Pietra Oliveira</h1>
 **I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in service of society.`**
 
-**<h2>> Skills</h2>**
+> **<h2>> Skills</h2>**
 :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
 :hammer: **Web development:** HTML, CSS, JavaScript, Bootstrap <br>
 :world_map: **Databases:** SQL Server, MySQL<br>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [RCBC](https://www.rcbc.edu/) Electronic Document Management Coordinator - (2023 - 2024)
 - [RCBC](https://www.rcbc.edu/) Digital Forms Developer - (2022 - 2023)
 
-**<h2>> Life</h2>**
+> **<h2>> Life</h2>**
 - [RCBC](https://www.rcbc.edu/) Dean's Scholar, Computer Science '22
 - Research Project - Software Factory Analysis 2022 - Price Systems
 - [NJ All-State Academic Team 2022](https://www.njccc.org/)
