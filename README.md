@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 :world_map: **Databases:** SQL Server, MySQL<br>
 :page_with_curl: **Automation and Scripting:** PowerShell, Windows Task Scheduler<br>
 
-**<h2>Professional Experience</h2>**
+> **<h2>Professional Experience</h2>**
 - [RCBC](https://www.rcbc.edu/) Electronic Document Management Coordinator - (2023 - 2024)
 - [RCBC](https://www.rcbc.edu/) Digital Forms Developer - (2022 - 2023)
 
