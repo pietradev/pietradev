@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 *<h1>⚡Pietra Oliveira</h1>
 **I am a Full Stack Developer student dedicated to harnessing technology to enhance human capabilities, not to constrain them. I believe in developing solutions that prioritize user needs and foster technological advancement in service of society.`**
 
-> **<h2>Skills</h2>**
+> **<h2>Skills</h2>**<br>
 :coffee: **Programming Languages:** Java, C++, Python, JavaScript <br>
 :hammer: **Web development:** HTML, CSS, JavaScript, Bootstrap <br>
 :world_map: **Databases:** SQL Server, MySQL<br>
